@@ -1,0 +1,78 @@
+body{ 
+    color: white;
+    background: rgb(0, 128, 17);
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+    margin-bottom:99px;
+    }
+    
+    header{
+     border-bottom: solid 2px rgb(141, 81, 2);
+    padding: 15px;
+    font-size:30px;
+    color:rgb(9, 46, 63);
+    }
+    
+    section{
+    background: rgb(2, 111, 253);
+    padding-bottom:50px;
+    padding-top:50px;
+    
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    }
+    .chamada-texto{
+    margin-right: 10%;
+    
+    
+    
+    
+    }
+    
+    
+    h1{
+    
+    font-size:35px;
+    
+    }
+    
+    p{
+    font-size:15px;
+    
+    }
+    
+    
+    .dragoes {
+    display: flex;
+        overflow-x: auto;
+    gap: 10px;
+    
+    }
+    
+    .categoria{
+    padding-left:60px;
+    padding-right:60px;
+    margin-top:50px;
+    
+    }
+    
+    
+    .categoria img {
+     opacity:0.7;    
+    height:250px;
+    }
+    
+    .categoria img:hover {
+    opacity:1.0;
+    border:1px solid rgb(9, 51, 9);
+    }
+    .categoria h2 {
+        color:rgb(255, 253, 254);
+     
+    
+    
+    
+}
